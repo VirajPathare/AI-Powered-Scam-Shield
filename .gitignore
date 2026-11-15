@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+phishingenv/
+venv/
+.pytest_cache/
+.pytest_cache/*
+CACHEDIR.TAG
+
+# Environment Secrets
+.env
+!.env.example
+
+# ML Models & Datasets
+backend/models/
+data/
+*.pth
+*.pt
+
+# Frontend
+node_modules/
+frontend/dist/
