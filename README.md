@@ -1,6 +1,3 @@
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/VirajPathare/AI-Powered-Scam-Shield/main/frontend/public/frontend.png" alt="Scam Shield Application Interface" width="640" style="max-width:100%;border-radius:8px;"/>
 
   <br>
 
