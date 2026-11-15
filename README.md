@@ -1,6 +1,4 @@
 
-  <br>
-
   <h1>AI-Powered Scam Shield: An Intelligent Cyber Fraud Detection System</h1>
   
   <p>
